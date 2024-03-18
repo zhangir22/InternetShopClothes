@@ -1,0 +1,11 @@
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.AssemblyInfoInputs.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.AssemblyInfo.cs
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\bin\Debug\net6.0\InternetShopClothes.Domain.deps.json
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\bin\Debug\net6.0\InternetShopClothes.Domain.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\bin\Debug\net6.0\InternetShopClothes.Domain.pdb
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\refint\InternetShopClothes.Domain.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\InternetShopClothes.Domain.pdb
+C:\Users\Zhangir\source\repos\InternetShopClothes.API\InternetShopClothes.Domain\obj\Debug\net6.0\ref\InternetShopClothes.Domain.dll
