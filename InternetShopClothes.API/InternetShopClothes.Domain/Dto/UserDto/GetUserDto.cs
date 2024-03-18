@@ -14,7 +14,7 @@ namespace InternetShopClothes.Domain.Dto.UserDto
         public string LastName { get; set; }
         public string Email { get; set; }
         public string Balance { get; set; }
-        public BusketCloth busket { get; set; }
+        public List<int> busket { get; set; }
         
     }
 }
