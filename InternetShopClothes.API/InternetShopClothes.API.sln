@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetShopClothes.API", "InternetShopClothes.API\InternetShopClothes.API.csproj", "{77BBFED9-A154-469B-BB3D-EB0267C40034}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetShopClothes.API", "InternetShopClothes.API\InternetShopClothes.API.csproj", "{77BBFED9-A154-469B-BB3D-EB0267C40034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetShopClothes.Domain", "InternetShopClothes.Domain\InternetShopClothes.Domain.csproj", "{D621E484-4C6D-42D6-BF03-39D369847B1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetShopClothes.Domain", "InternetShopClothes.Domain\InternetShopClothes.Domain.csproj", "{D621E484-4C6D-42D6-BF03-39D369847B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetShopClothes.Appliaction", "InternetShopClothes.Appliaction\InternetShopClothes.Appliaction.csproj", "{D065260E-6503-43D0-866E-D95C41EE7A11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D621E484-4C6D-42D6-BF03-39D369847B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D621E484-4C6D-42D6-BF03-39D369847B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D621E484-4C6D-42D6-BF03-39D369847B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D065260E-6503-43D0-866E-D95C41EE7A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D065260E-6503-43D0-866E-D95C41EE7A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D065260E-6503-43D0-866E-D95C41EE7A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D065260E-6503-43D0-866E-D95C41EE7A11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

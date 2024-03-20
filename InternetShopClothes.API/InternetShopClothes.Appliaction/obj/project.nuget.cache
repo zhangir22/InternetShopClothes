@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ugrD0JXDC1pGXT3c3e/0sEWodpbYoLAod6OUBZzqT/5J/XLE0/AZqo+LrwwytLShGxZL6sKP5nbeNwZ0i41HxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zhangir\\source\\repos\\InternetShopClothes\\InternetShopClothes.API\\InternetShopClothes.Appliaction\\InternetShopClothes.Appliaction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhangir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\mimemapping\\3.0.1\\mimemapping.3.0.1.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

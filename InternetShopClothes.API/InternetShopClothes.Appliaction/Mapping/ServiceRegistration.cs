@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InternetShopClothes.Domain.DataEvent
+namespace InternetShopClothes.Appliaction.Mapping
 {
-    public enum DataEventName
+    internal class ServiceRegistration
     {
-        Clothes = 1,
-        User
     }
 }
