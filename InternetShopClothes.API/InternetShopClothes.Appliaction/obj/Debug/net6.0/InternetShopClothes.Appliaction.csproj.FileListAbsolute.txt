@@ -1,0 +1,15 @@
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\bin\Debug\net6.0\InternetShopClothes.Appliaction.deps.json
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\bin\Debug\net6.0\InternetShopClothes.Appliaction.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\bin\Debug\net6.0\InternetShopClothes.Appliaction.pdb
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\bin\Debug\net6.0\InternetShopClothes.Domain.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\bin\Debug\net6.0\InternetShopClothes.Domain.pdb
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.csproj.AssemblyReference.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.AssemblyInfoInputs.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.AssemblyInfo.cs
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.csproj.CoreCompileInputs.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.csproj.CopyComplete
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\refint\InternetShopClothes.Appliaction.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\InternetShopClothes.Appliaction.pdb
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Appliaction\obj\Debug\net6.0\ref\InternetShopClothes.Appliaction.dll

@@ -28,3 +28,6 @@ C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\Intern
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\obj\Debug\net6.0\InternetShopClothes.API.pdb
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\obj\Debug\net6.0\InternetShopClothes.API.genruntimeconfig.cache
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\obj\Debug\net6.0\ref\InternetShopClothes.API.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\obj\Debug\net6.0\InternetShopClothes.API.csproj.AssemblyReference.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.API\obj\Debug\net6.0\InternetShopClothes.API.csproj.CopyComplete

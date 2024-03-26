@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pnhtelkfsO0Kn4qNt6dHINcsvu2fo7kgOfXERoiWFZK6CTwgAEokDAlUeJwDj3VEYHHqijrPoyr3qHjfVEd/mA==",
+  "dgSpecHash": "cvu4O7JU59x7IjHeEhxD79CT+s3ci758DZx+68P742OMJVTimoLP7DZpV8DaXcNRBSFakM83ziFrSZbjQwvopQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zhangir\\source\\repos\\InternetShopClothes\\InternetShopClothes.API\\InternetShopClothes.API\\InternetShopClothes.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhangir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zhangir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
