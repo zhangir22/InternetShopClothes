@@ -1,8 +1,6 @@
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\bin\Debug\net6.0\InternetShopClothes.Infrastructure.deps.json
-C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\bin\Debug\net6.0\InternetShopClothes.Infrastructure.runtimeconfig.json
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\bin\Debug\net6.0\InternetShopClothes.Infrastructure.dll
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\bin\Debug\net6.0\InternetShopClothes.Infrastructure.pdb
-C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.AssemblyInfo.cs
@@ -10,5 +8,7 @@ C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\Intern
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.dll
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\refint\InternetShopClothes.Infrastructure.dll
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.pdb
-C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.genruntimeconfig.cache
 C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\ref\InternetShopClothes.Infrastructure.dll
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\bin\Debug\net6.0\InternetShopClothes.Infrastructure.runtimeconfig.json
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Zhangir\source\repos\InternetShopClothes\InternetShopClothes.API\InternetShopClothes.Infrastructure\obj\Debug\net6.0\InternetShopClothes.Infrastructure.genruntimeconfig.cache
